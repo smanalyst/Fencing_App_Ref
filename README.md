@@ -22,3 +22,6 @@ Fencing_App_Ref<br>
  --openpose<br>
  
 Then, compile openpose into its folder, and at the top of any python code, add that folder to your PATH. 
+
+
+More will be added here later.
